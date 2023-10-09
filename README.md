@@ -2,7 +2,7 @@
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
  
-[image](https://cnnespanol.cnn.com/wp-content/uploads/2018/05/accidentes-aviones-comerciales-mas-mortiferos-de-la-historia14.jpg?quality=100&strip=info)
+<img src="https://cnnespanol.cnn.com/wp-content/uploads/2018/05/accidentes-aviones-comerciales-mas-mortiferos-de-la-historia14.jpg?quality=100&strip=info">
 ### **Contexto**
 
 Los accidentes aéreos son eventos inesperados e indeseados que involucran aeronaves y se producen daños físicos a personas o a la propia aeronave. Un accidente aéreo puede involucrar cualquier tipo de aeronave, incluyendo aviones comerciales, aviones privados, helicópteros, planeadores y globos aerostáticos.
