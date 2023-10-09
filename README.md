@@ -46,5 +46,5 @@ Una nube de letras la cual nos pone en contexto del motivo de la mayoria de los 
 - El terrorismo puede ser una causa de accidentes aéreos.
 
 **Contacto**
-[Linkedin](https://www.linkedin.com/in/alvarezalexiscv/)
-[Github](https://github.com/Sepubaxis)
+- [Linkedin](https://www.linkedin.com/in/alvarezalexiscv/)
+- [Github](https://github.com/Sepubaxis)
