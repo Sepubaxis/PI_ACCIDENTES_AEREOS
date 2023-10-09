@@ -44,3 +44,7 @@ Una nube de letras la cual nos pone en contexto del motivo de la mayoria de los 
 - Los fallos técnicos son la segunda causa más común de accidentes aéreos. Los aviones son máquinas complejas y pueden fallar por una variedad de razones.
 - Las condiciones climáticas adversas pueden contribuir a los accidentes aéreos. Las tormentas, la niebla y el hielo pueden dificultar el control del avión y aumentar el riesgo de accidentes.
 - El terrorismo puede ser una causa de accidentes aéreos.
+
+**Contacto**
+[Linkedin](https://www.linkedin.com/in/alvarezalexiscv/)
+[Github](https://github.com/Sepubaxis)
